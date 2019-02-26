@@ -1,4 +1,6 @@
 # Star-Trek-Races-and-more-
 
-Installation:
-Just drop it in C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods or wherever your rimworld mods folder is.
+# Installation:
+# Download the Star Trek Races zip folder                                                                                       -
+# Just drop it in C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods or wherever your rimworld mods folder is -
+# Extract it
