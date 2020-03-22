@@ -1,7 +1,7 @@
 # Juvia's Rimworld Mods[1.1]
 
 # Installation:
-# Download the mod zip folder                                                                                       -
+# Download the mod zip file                                                                                       -
 # Just drop it in C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods or wherever your rimworld mods folder is -
 # Extract it
 
